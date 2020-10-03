@@ -11,7 +11,7 @@
   <br>
   🎓 I graduated from MA Matholi'ul Anwar - Islamic Senior High School.
   <br>
-  💻 I love writing code and learn anythings about it and so make people's life easier with my applications.
+  💻 I love writing code and learn anything about it and so make people's life easier with my applications.
   <br>
   🔬 I’m currently working on Laravel
   <br>
