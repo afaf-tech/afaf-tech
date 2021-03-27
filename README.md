@@ -6,16 +6,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ahmad Fatih Al Fikri, Web Developer & And BackEnd Developer from Indonesia
+  Hi, I'm Ahmad Fatih Al Fikri, FullStack Developer & And BackEnd Developer from Indonesia
   <br>
   <br>
   🎓 I graduated from MA Matholi'ul Anwar - Islamic Senior High School.
   <br>
   💻 I love writing code and learn anything about it and so make people's life easier with my applications.
   <br>
-  🔬 I’m currently working on Laravel
+  🔬 I’m currently working on Nestjs
   <br>
-  📚 I’m currently learning how to make an api with Node js
+  📚 I’m currently learning how to implement S.O.L.I.D principle on every project i contribute.
   <br>
   📫 How to reach me: <a href="mailto: fatihalfikri5@gmail.com">fatihalfikri5@gmail.com</a>
 </p>
