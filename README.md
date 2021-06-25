@@ -16,8 +16,7 @@
   🔬 I’m currently working on Nestjs
   <br>
   📚 I’m currently learning how to implement S.O.L.I.D principle on every project i contribute.
-  <br>
-  📫 How to reach me: <a href="mailto: fatihalfikri5@gmail.com">fatihalfikri5@gmail.com</a>
+
 </p>
 
 <hr>
