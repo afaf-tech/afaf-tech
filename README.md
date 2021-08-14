@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ahmad Fatih Al Fikri, FullStack Developer & And BackEnd Developer from Indonesia
+  Hi, I'm Ahmad Fatih Al Fikri,  BackEnd Developer & FullStack Developer from Indonesia
   <br>
   <br>
   🎓 I graduated from MA Matholi'ul Anwar - Islamic Senior High School.
@@ -15,7 +15,7 @@
   <br>
   🔬 I’m currently working on Nestjs
   <br>
-  📚 I’m currently learning how to implement S.O.L.I.D principle on every project i contribute.
+  📚 I’m currently learning how to some advance concepts of programming.
 
 </p>
 
