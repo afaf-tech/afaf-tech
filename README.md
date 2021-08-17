@@ -15,7 +15,7 @@
   <br>
   🔬 I’m currently working on Nestjs
   <br>
-  📚 I’m currently learning how to some advance concepts of programming.
+  📚 I’m currently learning to use some advance concepts of programming.
 
 </p>
 
