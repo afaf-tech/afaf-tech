@@ -13,7 +13,7 @@
   <br>
   💻 I love writing code and learn anything about it and so make people's life easier with my applications.
   <br>
-  🔬 I’m currently working on Nestjs
+  🔬 I’m currently working on Dotnet Project
   <br>
   📚 I’m currently learning to use some advance concepts of programming and try to learn GO as well.
 
