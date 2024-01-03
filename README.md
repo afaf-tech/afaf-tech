@@ -13,13 +13,11 @@
   Hi, I'm Ahmad Fatih Al Fikri,  BackEnd Developer & FullStack Developer from Indonesia
   <br>
   <br>
-  🎓 I graduated from MA Matholi'ul Anwar - Islamic Senior High School.
+  💻 I love writing code and learn anything about it and so make people's life easier with my solutions.
   <br>
-  💻 I love writing code and learn anything about it and so make people's life easier with my applications.
+  🔬 I’m currently open to work
   <br>
-  🔬 I’m currently working on Dotnet and Blockchain Integration Project
-  <br>
-  📚 I’m currently learning to use some advance concepts of programming and try to learn GO and RUST as well.
+  📚 I’m currently learning to use some advance concepts of programming
 
 </p>
 
