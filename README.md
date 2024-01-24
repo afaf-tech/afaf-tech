@@ -7,6 +7,8 @@
   <code>
     <a href="https://www.linkedin.com/in/fatih-al-fikri-b1605a170/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/fatihalfikri5" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="[https://www.hackerrank.com/fatihalfikri5](https://leetcode.com/fatihalfikri5/)" title="Leetcode Profile"><img width="22" src="https://github.com/afaf-tech/afaf-tech/blob/master/leetcode.png"> Leetcode</a></code>
+
 </h5>
 <br>
 <p align="center">
