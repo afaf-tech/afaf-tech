@@ -17,9 +17,9 @@
   <br>
   💻 I love writing code and learn anything about it and so make people's life easier with my solutions.
   <br>
-  🔬 I’m currently open to work
+  🔬 Let's collaborate!
   <br>
-  📚 I’m currently learning to use some advance concepts of programming
+  📚 I’m enthustiastically learning to use some advance concepts of programming
 
 </p>
 
