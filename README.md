@@ -12,14 +12,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ahmad Fatih Al Fikri,  BackEnd Developer & FullStack Developer from Indonesia
+  Hi, I'm Ahmad Fatih Al Fikri,  Software Engineer from Indonesia
   <br>
   <br>
-  💻 I love writing code and learn anything about it and so make people's life easier with my solutions.
+  💻 I love writing code and learn anything about it and generate great impact for many people.
   <br>
   🔬 Let's collaborate!
   <br>
-  📚 I’m enthustiastically learning to use some advance concepts of programming
+  📚 I’m enthustiastically learning to apply some advance concepts of programming
 
 </p>
 
@@ -31,8 +31,8 @@
       <code><img title="GO" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
     <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
     <code><img title="Typescript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-        <code><img title="GO" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img title="DOTNETCORE" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+        <code><img title="Python" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+        <code><img title="CSharp" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
     <code><img title="PHP" height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
     <code><img title="NESTJS" height="30" src="https://nestjs.com/img/logo_text.svg"/></code>
     <code><img title="DOTNETCORE" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
