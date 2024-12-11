@@ -15,12 +15,10 @@
   Hi, I'm Ahmad Fatih Al Fikri,  Software Engineer from Indonesia
   <br>
   <br>
-  💻 I love writing code and learn anything about it and generate great impact for many people.
+  💻 I have a passion for writing code, enthusiastically learning and exploring new technologies, with the goal of creating meaningful impact for others.
   <br>
   🔬 Let's collaborate!
   <br>
-  📚 I’m enthustiastically learning to apply some advance concepts of programming
-
 </p>
 
 <hr>
